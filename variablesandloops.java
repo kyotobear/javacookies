@@ -21,6 +21,8 @@ public class variables {
         // to assign or initialize, we use the assignment operator = 
         int b = 20;
 
+        // identifier is a name of any length, consisting of letters, digits, underscore, and dollar sign.
+        
     }
 }
 
